@@ -8,6 +8,12 @@
 
   ##
   
+- :star: Meu nome é Beatriz, mas pode me chamar de Maryah
+- :woman_technologist: Estagiária de Ti
+- :art: Gosto da área criativa e desenho nas horas vagas (Inclusive aceito encomendas!)
+  
+ ##
+  
 <div style="display: inline_block">
   <h4>:books: Conhecimentos e estudos atualmente :books:</h4>
   <img align="center" alt="Bia-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -19,6 +25,10 @@
  
   ##
 
-- :star: Meu nome é Beatriz, mas pode me chamar de Maryah
-- :woman_technologist: Estagiária de Ti
-- :art: Gosto da área criativa e desenho nas horas vagas
+<div style="display: inline_block">
+  <h4>:calling: Entre em contato!:calling:</h4>
+</div>
+<a href="https://instagram.com/maryah.draw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:beatrizmaryah16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/beatriz-carmo-0a3094215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
