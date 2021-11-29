@@ -32,4 +32,4 @@
 - :star: Meu nome é Beatriz, mas pode me chamar de Maryah
 - :woman_technologist: Estagiária de Ti
 - :art: Gosto da área criativa e desenho nas horas vagas (Inclusive aceito encomendas!)
-  
+- 🚧: Foto de perfil em construção!!  
