@@ -6,12 +6,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizMaryah&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  ##
-  
-- :star: Meu nome é Beatriz, mas pode me chamar de Maryah
-- :woman_technologist: Estagiária de Ti
-- :art: Gosto da área criativa e desenho nas horas vagas (Inclusive aceito encomendas!)
-  
  ##
   
 <div style="display: inline_block">
@@ -32,3 +26,10 @@
 <a href = "mailto:beatrizmaryah16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/beatriz-carmo-0a3094215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
+
+  ##
+  
+- :star: Meu nome é Beatriz, mas pode me chamar de Maryah
+- :woman_technologist: Estagiária de Ti
+- :art: Gosto da área criativa e desenho nas horas vagas (Inclusive aceito encomendas!)
+  
