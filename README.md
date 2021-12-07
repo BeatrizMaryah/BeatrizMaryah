@@ -44,4 +44,6 @@
   
 - :star: Meu nome é Beatriz, mas pode me chamar de Maryah
 - :woman_technologist: Estagiária de Ti
-- :art: Gosto da área criativa e desenho nas horas vagas (Inclusive aceito encomendas!)  
+- 🎓 Me formei no Entra21 em 2021, agora estou trabalhando e aprendendo na área
+- 💻 Possuo conhecimento básico em frontend, mas meu foco é no backend, principalmente java!
+- :art: Gosto da área criativa e desenho nas horas vagas (Inclusive aceito encomendas)!  
