@@ -47,3 +47,6 @@
 - 🎓 Me formei no Entra21 em 2021, agora estou trabalhando e aprendendo na área
 - 💻 Possuo conhecimento básico em frontend, mas meu foco é no backend, principalmente java!
 - :art: Gosto da área criativa e desenho nas horas vagas (Inclusive aceito encomendas)!  
+
+
+![Snake animation](https://github.com/BeatrizMaryah/BeatrizMaryah/blob/output/github-contribution-grid-snake.svg)
