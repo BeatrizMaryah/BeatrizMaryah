@@ -22,12 +22,16 @@
   
 <div style="display: inline_block">
   <h4><img height="28em" src="https://emoji.discord.st/emojis/KannaPeer.png"/> Conhecimentos e estudos atualmente <img height="28em" src="https://emoji.discord.st/emojis/KannaPeer.png"/></h4>
-  <img align="center" alt="Bia-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Bia-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Bia-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bia-Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bia-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="25em" src="https://user-images.githubusercontent.com/87392633/149576543-6e5deac8-3e9b-4a2f-91c8-23b92d124c84.png">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" height="32em" src="https://user-images.githubusercontent.com/87392633/149575312-64533d2f-904f-4c56-b20f-6d18beed99fb.png">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="32em" src="https://user-images.githubusercontent.com/87392633/149572839-0273638e-7dc2-4936-958b-aecaeb2bed0c.png">
+  <img align="center" height="32em" src="https://user-images.githubusercontent.com/87392633/149576465-221f81e4-a0b8-47cc-9e7b-114d474dcf76.png">
+
   </div> 
  
   ## 
