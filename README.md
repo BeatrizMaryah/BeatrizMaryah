@@ -50,7 +50,7 @@
 - :woman_technologist: Estagiária de Ti
 - 🤓 Estou no 3º ano do ensino médio, mas pretendo fazer faculdade na área 
 - 🎓 Me formei no Entra21 em 2021, agora estou trabalhando e aprendendo na área
-- 💻 Possuo conhecimento básico em frontend, mas meu foco é no backend, principalmente java!
+- 💻 Possuo conhecimento em frontend e estou começando no flutter, mas meu foco é no backend, principalmente java!
 - :art: Gosto da área criativa e desenho nas horas vagas (Inclusive aceito encomendas)!  
 
 
