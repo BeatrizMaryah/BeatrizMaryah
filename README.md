@@ -46,15 +46,11 @@
 
   ##
   
-- :star: Meu nome é Beatriz, mas pode me chamar de Maryah
+- :star: Meu nome é Beatriz, prazer!
 - :woman_technologist: Desenvolvedora 1
-- 🤓 Estou no 3º ano do ensino médio, mas pretendo fazer faculdade na área 
+- 🤓 Estou no primeiro semestre de ciências da computação na Furb 
 - 🎓 Me formei no Entra21 em 2021, agora estou trabalhando e aprendendo na área
 - 💻 Possuo conhecimento em frontend e estou começando no flutter, mas meu foco é no backend, principalmente java!
 - :art: Gosto da área criativa e desenho nas horas vagas (Inclusive aceito encomendas)!  
-
-  ##
-
-Só para avisar, não atualizo muito os projetos de programação, normalmente passo aqui para atualizar ou consultar minhas anotações! XD
 
 ![Snake animation](https://github.com/BeatrizMaryah/BeatrizMaryah/blob/output/github-contribution-grid-snake.svg)
