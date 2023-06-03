@@ -21,11 +21,11 @@
   <img align="center" title="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" title="PostgreSQL" height="32em" src="https://user-images.githubusercontent.com/87392633/149575312-64533d2f-904f-4c56-b20f-6d18beed99fb.png">
-  <img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="30">
-  <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="30">
+  <img align="center" title="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="30">
-  <img align="center" title="Angular" height="32em" src="https://user-images.githubusercontent.com/87392633/149572839-0273638e-7dc2-4936-958b-aecaeb2bed0c.png">
+  <img align="center" alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="30 width="40"">
+  <img align="center" align="center" title="Angular" height="32em" src="https://user-images.githubusercontent.com/87392633/149572839-0273638e-7dc2-4936-958b-aecaeb2bed0c.png">
 
 </div> 
  
